@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{75C8D2E3-AC92-47A5-A4E5-BD17B5A2A958}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jones__James__CE01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Jones_James_CE02/Jones_James_CE02/Program.cs">
+    <Files>
+      <File FileName="../Jones_James_CE02/Jones_James_CE02/Program.cs" Line="10" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jones_James_CE01" expanded="True">
+            <Node name="Jones_James_CE01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
